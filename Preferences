@@ -1,4 +1,4 @@
-Source code in web.h used to connect wifi for esp8266
+Source code in Website.h used to connect wifi for esp8266
 
 1. ESP8266 Smart Config - How to connect wifi for ESP8266 without coding
 - "https://www.youtube.com/watch?v=rEYH5ffpHWE"
